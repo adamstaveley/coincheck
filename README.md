@@ -1,6 +1,6 @@
 # Coincheck
 
-## Coincheck is a simple command line program written for quickly finding crytocurrency prices.
+## Coincheck is a simple command line program written for quickly finding cryptocurrency prices.
 
 This is the primary version of Coincheck. It is a port written in Go of an older, unmaintained version (see
 <https://github.com/ayuopy/coincheck-old>).
